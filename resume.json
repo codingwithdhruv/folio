@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "nameKey": "basics.name",
+    "labelKey": "basics.label",
+    "summaryKey": "basics.summary",
+    "image": "",
+    "email": "techdhruvspace@gmail.com",
+    "phone": "",
+    "url": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "socialMedia": {
+      "linkedIn": {
+        "url": "https://www.linkedin.com/in/codewithdhruv/"
+      },
+      "github": {
+        "url": "https://github.com/codingwithdhruv"
+      }
+    }
+  },
+  "work": [
+    {
+      "id": "amity",
+      "nameKey": "work.amity.name",
+      "locationKey": "work.amity.location",
+      "positionKey": "work.amity.position",
+      "summaryKey": "work.amity.summary",
+      "url": "",
+      "logo": "",
+      "logoDark": "",
+      "startDate": "05/2023",
+      "endDateKey": "work.amity.end-date",
+      "highlights": [],
+      "skills": []
+    }
+  ],
+  "projects": [
+    {
+      "id": "algo-trading",
+      "nameKey": "projects.algo-trading.name",
+      "descriptionKey": "projects.algo-trading.description",
+      "logo": "",
+      "logoDark": "",
+      "year": "2024",
+      "url": "https://sybil-bet-demo.vercel.app"
+    },
+    {
+      "id": "mirroring-engine",
+      "nameKey": "projects.mirroring-engine.name",
+      "descriptionKey": "projects.mirroring-engine.description",
+      "logo": "",
+      "logoDark": "",
+      "year": "2024",
+      "url": "https://github.com/codingwithdhruv/lighter-trading-bot.git"
+    }
+  ],
+  "skills": [
+    { "id": "typescript", "nameKey": "skills.typescript" },
+    { "id": "nodejs", "nameKey": "skills.nodejs" },
+    { "id": "react", "nameKey": "skills.react" },
+    { "id": "rust", "nameKey": "skills.rust" },
+    { "id": "python", "nameKey": "skills.python" },
+    { "id": "websockets", "nameKey": "skills.websockets" },
+    { "id": "sqlite", "nameKey": "skills.sqlite" },
+    { "id": "postgresql", "nameKey": "skills.postgresql" },
+    { "id": "microservices", "nameKey": "skills.microservices" },
+    { "id": "rest-apis", "nameKey": "skills.rest-apis" }
+  ]
+}

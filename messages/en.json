@@ -1,0 +1,116 @@
+{
+  "home-page": {
+    "tagline": "Architecting low-latency systems and scalable infrastructure.",
+    "about-heading": "About",
+    "skills-heading": "Skills",
+    "experience-heading": "Education",
+    "projects-heading": "Projects"
+  },
+  "description-section": {
+    "paragraphs": {
+      "hello": "Hello there! I am a FullStack Engineer focused on building execution-critical systems and low-latency backend infrastructure.",
+      "craft": "My engineering experience is heavily centered around speed, reliability, and capital-aware architecture. I specialize in designing highly concurrent systems where milliseconds, distributed state, and risk decisions directly impact real-world outcomes.",
+      "learn": "Whether it is engineering a WebSocket-first orderbook pipeline, developing fault-tolerant microservices, or ensuring state recovery in under a second, I love tackling complex backend challenges and building tools that handle live, volatile data."
+    }
+  },
+  "resume-description": {
+    "headline": "FullStack Engineer",
+    "location": "Mumbai, India",
+    "email": "techdhruvspace@gmail.com",
+    "linkedin": "linkedin.com/in/codewithdhruv",
+    "github": "github.com/codingwithdhruv"
+  },
+  "mode-toggle": {
+    "sr-label": "Toggle theme",
+    "options": {
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System"
+    }
+  },
+  "language-toggle": {
+    "sr-label": "Change language",
+    "locales": {
+      "en": "en",
+      "fr": "fr"
+    }
+  },
+  "footer": {
+    "made-with": "Made with"
+  },
+  "github-contributions": {
+    "tooltip": "{count, plural, one {{count, number} contribution on {date}} other {{count, number} contributions on {date}}}",
+    "total": "{count, number} contributions in {year} on <link>GitHub</link>.",
+    "graph": {
+      "title": "Contribution Graph",
+      "months": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun",
+        "Jul",
+        "Aug",
+        "Sep",
+        "Oct",
+        "Nov",
+        "Dec"
+      ],
+      "weekdays": [
+        "Sun",
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat"
+      ],
+      "total-count": "{count, number} contributions in {year}",
+      "legend": {
+        "less": "Less",
+        "more": "More",
+        "level": "{count, plural, one {{count} contribution} other {{count} contributions}}"
+      }
+    }
+  },
+  "resume": {
+    "basics": {
+      "name": "Dhruv Nar",
+      "label": "FullStack Engineer",
+      "summary": ""
+    },
+    "work": {
+      "amity": {
+        "name": "Amity University India",
+        "location": "",
+        "position": "Bachelor of Computer Applications",
+        "summary": "",
+        "end-date": "07/2026",
+        "highlights": {}
+      }
+    },
+    "projects": {
+      "algo-trading": {
+        "name": "Algorithmic Trading Terminal",
+        "description": "Engineered a low-latency trading system with ~50-150ms execution latency and a WebSocket-first pipeline featuring fault-tolerant SQLite WAL recovery."
+      },
+      "mirroring-engine": {
+        "name": "Multi-Exchange Mirroring Engine",
+        "description": "Architected a high-concurrency microservice engine in Node.js and Python synchronizing execution across multiple venues with sub-100ms detection latency."
+      }
+    },
+    "skills": {
+      "typescript": "TypeScript",
+      "nodejs": "Node.js",
+      "react": "React",
+      "rust": "Rust",
+      "python": "Python",
+      "websockets": "WebSockets",
+      "sqlite": "SQLite",
+      "postgresql": "PostgreSQL",
+      "microservices": "Microservices",
+      "rest-apis": "REST APIs"
+    }
+  }
+}
